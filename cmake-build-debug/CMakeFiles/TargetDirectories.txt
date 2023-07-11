@@ -1,0 +1,4 @@
+C:/Users/23256/Desktop/cn_project/cmake-build-debug/CMakeFiles/receive.dir
+C:/Users/23256/Desktop/cn_project/cmake-build-debug/CMakeFiles/send.dir
+C:/Users/23256/Desktop/cn_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/23256/Desktop/cn_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
